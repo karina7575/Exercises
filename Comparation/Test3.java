@@ -7,14 +7,16 @@ import java.util.Collections;
 public class Test3
 {
     public static void main(String[] args) {
-        Employee per1 = new Employee(23, "T", "Y", 12);
-        Employee per2 = new Employee(87, "T", "Y", 12);
-        Employee per3 = new Employee(65, "T", "Y", 12);
+        Employee per1 = new Employee(3, "Nina", "Ivanov", 100);
+        Employee per2 = new Employee(2, "Alisa", "Petrov", 150);
+        Employee per3 = new Employee(1, "Tima", "Rybakov", 50);
         ArrayList<Employee> rab = new ArrayList<>();
         rab.add(per1);
         rab.add(per2);
         rab.add(per3);
+        System.out.println(rab);
         Collections.sort(rab);
+        System.out.println(rab);
     }
 }
 class Employee implements Comparable<Employee> {
@@ -42,9 +44,11 @@ class Employee implements Comparable<Employee> {
 
     @Override
     public int compareTo(Employee anotherEmp) {
-        if (this.id == anotherEmp.id) return 0;
-        else if (this.id < anotherEmp.id) return -1;
-        else return 1;
-
-    }
+       //return this.id - anotherEmp.id;
+        int res = this.name.compareTo(anotherEmp.name);
+        if (res == 0) { res = this.surname.compareTo(anotherEmp.surname);}
+        return res;
+   }
 }
+
+
