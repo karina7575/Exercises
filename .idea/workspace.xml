@@ -1,100 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7c1631f-5046-441e-8c9d-23319e4678e6" name="Changes" comment="" />
+    <list default="true" id="39df6cc2-dad6-4166-9df2-4ee394bc5bff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2OnNLisrjlogoXxnGhaYp3Q6fNA" />
+  <component name="ProjectId" id="2UWptzuhCHOYi7kXGu0Ml47v53B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Zadachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadachi" />
-      <module name="Exercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Zadachi" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a7c1631f-5046-441e-8c9d-23319e4678e6" name="Changes" comment="" />
-      <created>1682192333858</created>
+      <changelist id="39df6cc2-dad6-4166-9df2-4ee394bc5bff" name="Changes" comment="" />
+      <created>1693065413292</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1682192333858</updated>
-      <workItem from="1682192336027" duration="2547000" />
-      <workItem from="1682255350327" duration="2360000" />
-      <workItem from="1682364761720" duration="1241000" />
-      <workItem from="1682424145376" duration="3114000" />
-      <workItem from="1682503313184" duration="2528000" />
-      <workItem from="1682540710898" duration="436000" />
-      <workItem from="1682939620590" duration="848000" />
-      <workItem from="1683058760933" duration="726000" />
-      <workItem from="1683286682198" duration="5677000" />
-      <workItem from="1683453603284" duration="2387000" />
-      <workItem from="1683661819309" duration="2289000" />
-      <workItem from="1683713224004" duration="5416000" />
-      <workItem from="1683800110120" duration="2433000" />
-      <workItem from="1683834153918" duration="1423000" />
-      <workItem from="1683890492567" duration="1425000" />
-      <workItem from="1684094140295" duration="2498000" />
-      <workItem from="1684178530776" duration="3657000" />
-      <workItem from="1684496625848" duration="1763000" />
-      <workItem from="1684523804436" duration="3402000" />
-      <workItem from="1684583016948" duration="4032000" />
-      <workItem from="1684927156091" duration="3556000" />
-      <workItem from="1685208983222" duration="4723000" />
-      <workItem from="1685357224332" duration="2574000" />
-      <workItem from="1685522448479" duration="5855000" />
-      <workItem from="1685528872415" duration="48000" />
-      <workItem from="1685622251019" duration="1219000" />
-      <workItem from="1685699456199" duration="1226000" />
-      <workItem from="1685811225331" duration="662000" />
-      <workItem from="1685873457453" duration="639000" />
-      <workItem from="1685992301750" duration="2155000" />
-      <workItem from="1686163295597" duration="1025000" />
-      <workItem from="1686249284863" duration="1593000" />
-      <workItem from="1686598938453" duration="773000" />
-      <workItem from="1686767235077" duration="69000" />
+      <updated>1693065413292</updated>
+      <workItem from="1693065415569" duration="114000" />
     </task>
     <servers />
   </component>

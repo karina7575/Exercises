@@ -39,6 +39,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lambda" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Zadachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadachi" />
@@ -92,6 +97,12 @@
       <workItem from="1685873457453" duration="639000" />
       <workItem from="1685992301750" duration="2155000" />
       <workItem from="1686163295597" duration="1025000" />
+      <workItem from="1686249284863" duration="1593000" />
+      <workItem from="1686598938453" duration="773000" />
+      <workItem from="1686767235077" duration="69000" />
+      <workItem from="1686768711615" duration="72000" />
+      <workItem from="1686824013978" duration="3205000" />
+      <workItem from="1687080459730" duration="458000" />
     </task>
     <servers />
   </component>
